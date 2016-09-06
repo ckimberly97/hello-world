@@ -1,8 +1,7 @@
 # hello-world
 My First Repository - Repo
 
-# This will make an H1 tagset
-## This will make a H2 tagset
+# This will make an H1 tag set
 
 - Item 1 in a list
 - Item 2 in a list
